@@ -61,12 +61,14 @@
         android:orientation="vertical">
 
         <Button
+            android:id="@+id/eduButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Education"
-            android:textColor="#FFFFFF"/>
+            android:textColor="#FFFFFF" />
 
         <Button
+            android:id="@+id/workExpButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Work Experience"
